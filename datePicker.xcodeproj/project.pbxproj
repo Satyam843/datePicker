@@ -13,6 +13,7 @@
 		1C9C337A24D18C0200094CE0 /* datePicker.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1C9C337824D18C0200094CE0 /* datePicker.xcdatamodeld */; };
 		1C9C337C24D18C0500094CE0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C9C337B24D18C0500094CE0 /* Assets.xcassets */; };
 		1C9C337F24D18C0500094CE0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C9C337D24D18C0500094CE0 /* LaunchScreen.storyboard */; };
+		1C9C338724D190D800094CE0 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C9C338624D190D800094CE0 /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1C9C337B24D18C0500094CE0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1C9C337E24D18C0500094CE0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1C9C338024D18C0500094CE0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C9C338624D190D800094CE0 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				1C9C337124D18C0200094CE0 /* AppDelegate.swift */,
 				1C9C337324D18C0200094CE0 /* ViewController.swift */,
+				1C9C338624D190D800094CE0 /* TableViewCell.swift */,
 				1C9C337524D18C0200094CE0 /* Main.storyboard */,
 				1C9C337B24D18C0500094CE0 /* Assets.xcassets */,
 				1C9C337D24D18C0500094CE0 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1C9C337A24D18C0200094CE0 /* datePicker.xcdatamodeld in Sources */,
+				1C9C338724D190D800094CE0 /* TableViewCell.swift in Sources */,
 				1C9C337424D18C0200094CE0 /* ViewController.swift in Sources */,
 				1C9C337224D18C0200094CE0 /* AppDelegate.swift in Sources */,
 			);
